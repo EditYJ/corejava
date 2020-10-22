@@ -9,5 +9,6 @@ public class Main {
       System.out.print("=");
     }
     System.out.println();
+    System.out.println(greeting.replace("el", "你好杀杀杀"));
   }
 }
