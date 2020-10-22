@@ -13,7 +13,7 @@ import java.time.LocalDate;
  * int today = date.getDayOfMonth();
  * }
  */
-public class CalendarTest {
+public class CalendarTest{
   public static void main(String[] args) {
     // 当前日期
     LocalDate date = LocalDate.now();
